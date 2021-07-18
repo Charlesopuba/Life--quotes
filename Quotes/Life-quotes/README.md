@@ -14,7 +14,7 @@ Type git clone,and paste the link
 - Upvote or downvote a quote.
 - Upvote or downvote a quote.
 - See the number of upvotes and number of downvotes for each quote
--
+
 ## Live link is live here [           ]
 ## Technologies utilised
 - Typescript
