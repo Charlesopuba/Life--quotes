@@ -15,7 +15,7 @@ Type git clone,and paste the link
 - Upvote or downvote a quote.
 - See the number of upvotes and number of downvotes for each quote
 
-## Live link is live here [           ]
+## Live link is live here [    https://charlesopuba.github.io/Life--quotes/       ]
 ## Technologies utilised
 - Typescript
 - Javascript
